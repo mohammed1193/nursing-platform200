@@ -10,7 +10,7 @@ export default function Profile() {
     fullName: 'مطارد العنزي',
     email: 'mohammed.ahmed@example.com',
     phone: '+966 50 123 4567',
-    specialty: 'دكتور جراحة المخ والاعصاب  ',
+    specialty: 'دكتور جراحة المخ والاعصاب المحترف  ',
     graduationYear: '2020',
     city: 'الرياض',
     bio: 'ممرض متخصص في التمريض الباطني والجراحي، أسعى للحصول على ترخيص الهيئة السعودية للتخصصات الصحية.',
